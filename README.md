@@ -1,4 +1,4 @@
-## Download BLIP_Dataset_Captioning.ipynb and run the cells. Edited script for easy batch image auto captioning
+## Download <a href="https://github.com/CMuell/BLIP/blob/main/BLIP_Dataset_Captioning.ipynb">BLIP_Dataset_Captioning.ipynb</a> and run the cells. Edited script for easy batch image auto captioning
 <br><br>
 ### BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
 
