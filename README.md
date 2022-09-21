@@ -1,11 +1,8 @@
 ## Download BLIP_Dataset_Captioning.ipynb and run the cells. Edited script for easy batch image auto captioning
+<br><br>
+### BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
 
-
-
-
-## BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
-
-## Announcement: BLIP is now officially integrated into [LAVIS](https://github.com/salesforce/LAVIS) - a one-stop library for language-and-vision research and applications!
+### Announcement: BLIP is now officially integrated into [LAVIS](https://github.com/salesforce/LAVIS) - a one-stop library for language-and-vision research and applications!
 
 <img src="BLIP.gif" width="700">
 
